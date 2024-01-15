@@ -4,7 +4,7 @@ h1.innerHTML = data.toString();
 
 
 
-function getDiaDaSemana(diaSemana) {
+function getDiaDaSemana(diaSemana) { //desenvolvendo e chamando funções
     let diaDaSemana;
 
     switch (diaSemana) {
